@@ -1,23 +1,14 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hi there 👋, I'm Apoorva Vasishtha</h1>
+  <p>A second-year student at Christ University deeply passionate about technology</p>
+  <p>🚀 Actively developing skills in Android App Development, Full Stack Development, Data Analysis, and Software Development</p>
+  <p>🌟 Leveraging technology's transformative potential to create user-friendly solutions</p>
+  <p>💡 Excited to apply my skills to real-world challenges as I continue my academic journey</p>
+</div>
 
-<!--
-**apoorva240/apoorva240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---># Apoorva Vasishtha - Profile
-
-Hello! I'm Apoorva Vasishtha, a second-year student at Christ University deeply passionate about technology. I'm actively developing skills in Android App Development, Full Stack Development, Data Analysis, and Software Development. I aim to leverage technology's transformative potential to create user-friendly solutions. I'm excited to apply my skills to real-world challenges as I continue my academic journey.
-
-## Technologies
+## Technologies & Skills
 
 ### Programming Languages
 - C
@@ -49,15 +40,24 @@ Hello! I'm Apoorva Vasishtha, a second-year student at Christ University deeply 
 
 My primary goal is to leverage technology to create user-friendly solutions and tackle real-world challenges. I am passionate about using technology to make a positive impact on the world.
 
+<br>
+
 ## Let's Connect!
 
 I'm always open to tech discussions, collaboration, or mentorship opportunities. If you share my passion for technology or have a project in mind, feel free to connect with me. I'd love to hear from you!
 
-## Contact Information
+<br>
 
-- LinkedIn: [Apoorva Vasishtha](www.linkedin.com/in/apoorva-vasishtha-3000241b1)
-- Email: [apoorvavasishtha@gmail.com]
-- PortFolio:[Apoorva Vasishtha](https://kaleidoscopic-quokka-d10008.netlify.app/)
+<div align="center">
+  <a href="www.linkedin.com/in/apoorva-vasishtha-3000241b1">LinkedIn</a> | 
+  <a href="mailto:apoorvavasishtha@gmail.com">Email</a> | 
+  <a href="https://kaleidoscopic-quokka-d10008.netlify.app/">Portfolio</a>
+</div>
 
-Thank you for visiting my profile, and I look forward to connecting with you!
+<br>
+
+<div align="center">
+  <p>Thank you for visiting my profile, and I look forward to connecting with you!</p>
+</div>
+
 
