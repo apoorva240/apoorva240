@@ -55,8 +55,9 @@ I'm always open to tech discussions, collaboration, or mentorship opportunities.
 
 ## Contact Information
 
-- LinkedIn: [Apoorva Vasishtha](https://www.linkedin.com/in/apoorva-vasishtha)
-- Email: [your.email@example.com]
+- LinkedIn: [Apoorva Vasishtha](www.linkedin.com/in/apoorva-vasishtha-3000241b1)
+- Email: [apoorvavasishtha@gmail.com]
+- PortFolio:[https://kaleidoscopic-quokka-d10008.netlify.app/]
 
 Thank you for visiting my profile, and I look forward to connecting with you!
 
