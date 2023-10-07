@@ -51,7 +51,8 @@ I'm always open to tech discussions, collaboration, or mentorship opportunities.
 <div align="center">
   <a href="www.linkedin.com/in/apoorva-vasishtha-3000241b1">LinkedIn</a> | 
   <a href="mailto:apoorvavasishtha@gmail.com">Email</a> | 
-  <a href="https://kaleidoscopic-quokka-d10008.netlify.app/">Portfolio</a>
+  <a href="https://kaleidoscopic-quokka-d10008.netlify.app/">Portfolio</a> | 
+  <a href="https://holopin.me/apoorva240">Holopin Badge</a>
 </div>
 
 <br>
@@ -59,5 +60,3 @@ I'm always open to tech discussions, collaboration, or mentorship opportunities.
 <div align="center">
   <p>Thank you for visiting my profile, and I look forward to connecting with you!</p>
 </div>
-
-
