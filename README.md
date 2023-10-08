@@ -51,7 +51,8 @@ I'm always open to tech discussions, collaboration, or mentorship opportunities.
 <div align="center">
   <a href="www.linkedin.com/in/apoorva-vasishtha-3000241b1">LinkedIn</a> | 
   <a href="mailto:apoorvavasishtha@gmail.com">Email</a> | 
-  <a href="https://kaleidoscopic-quokka-d10008.netlify.app/">Portfolio</a>
+  <a href="https://kaleidoscopic-quokka-d10008.netlify.app/">Portfolio</a> | 
+  <a href="https://holopin.me/apoorva240">Holopin Profile</a>
 </div>
 
 <br>
@@ -61,7 +62,6 @@ I'm always open to tech discussions, collaboration, or mentorship opportunities.
 </div>
 
 <div align="center">
-  <a href="(https://holopin.me/apoorva240)](https://holopin.io/@apoorva240)">
-    <img src="https://holopin.me/apoorva240" alt="Holopin Badge" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s;">
-  </a>
+  <!-- Replace 'image-url.jpg' with the actual URL or file path of your image -->
+  <img src="image-url.jpg" alt="Your Image" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s;">
 </div>
