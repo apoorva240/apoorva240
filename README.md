@@ -61,7 +61,7 @@ I'm always open to tech discussions, collaboration, or mentorship opportunities.
 </div>
 
 <div align="center">
-  <a href="https://holopin.me/apoorva240">
+  <a href="(https://holopin.me/apoorva240)](https://holopin.io/@apoorva240)">
     <img src="https://holopin.me/apoorva240" alt="Holopin Badge" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s;">
   </a>
 </div>
