@@ -65,17 +65,15 @@
   <a href="www.linkedin.com/in/apoorva-vasishtha-3000241b1">LinkedIn</a> | 
   <a href="mailto:apoorvavasishtha@gmail.com">Email</a> | 
   <a href="https://kaleidoscopic-quokka-d10008.netlify.app/">Portfolio</a> | 
-  <a href="https://holopin.io/@apoorva240">Holopin Profile</a>
+  <a href="https://holopin.io/@apoorva240">
+    <img src="https://example.com/your-image.jpg" alt="Your Image" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s;">
+  </a>
 </div>
 
 <br>
 
 <div align="center">
   <p>Thank you for visiting my profile, and I look forward to connecting with you!</p>
-</div>
-
-<div align="center">
-  <img src="(https://holopin.me/apoorva240)](https://holopin.io/@apoorva240)" alt="Your Image" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s;">
 </div>
 
 </body>
