@@ -10,7 +10,7 @@ I'm a second-year student at Christ University with a deep passion for all thing
 - 🌟 Exploring the endless possibilities of technology to craft user-friendly solutions.
 - 💡 Excited to tackle real-world challenges while continuing my academic journey.
 
-![Coding is Fun](https://example.com/your-image.jpg)
+
 
 ## My Tech Arsenal
 
