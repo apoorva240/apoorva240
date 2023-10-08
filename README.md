@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Apoorva Vasishtha's Profile</title>
+</head>
+<body>
+
 <div align="center">
   <h1>Hi there 👋, I'm Apoorva Vasishtha</h1>
   <p>A second-year student at Christ University deeply passionate about technology</p>
@@ -8,45 +15,51 @@
 
 <br>
 
-## Technologies & Skills
+<h2>Technologies & Skills</h2>
 
-### Programming Languages
-- C
-- Java
-- Python
-- R
+<h3>Programming Languages</h3>
+<ul>
+  <li>C</li>
+  <li>Java</li>
+  <li>Python</li>
+  <li>R</li>
+</ul>
 
-### Databases
-- SQL
-- PhpMyAdmin
+<h3>Databases</h3>
+<ul>
+  <li>SQL</li>
+  <li>PhpMyAdmin</li>
+</ul>
 
-### Scripting Languages
-- HTML
-- CSS
-- JavaScript
+<h3>Scripting Languages</h3>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ul>
 
-### Skills
-- Android App Development
-- Machine Learning
+<h3>Skills</h3>
+<ul>
+  <li>Android App Development</li>
+  <li>Machine Learning</li>
+</ul>
 
-### Frameworks
-- Django
-- Angular
-- Bootstrap
-- Express.js
-- Node.js
+<h3>Frameworks</h3>
+<ul>
+  <li>Django</li>
+  <li>Angular</li>
+  <li>Bootstrap</li>
+  <li>Express.js</li>
+  <li>Node.js</li>
+</ul>
 
-## Goals
-
-My primary goal is to leverage technology to create user-friendly solutions and tackle real-world challenges. I am passionate about using technology to make a positive impact on the world.
+<h2>Goals</h2>
+<p>My primary goal is to leverage technology to create user-friendly solutions and tackle real-world challenges. I am passionate about using technology to make a positive impact on the world.</p>
 
 <br>
 
-## Let's Connect!
-
-I'm always open to tech discussions, collaboration, or mentorship opportunities. If you share my passion for technology or have a project in mind, feel free to connect with me. I'd love to hear from you!
-
-<br>
+<h2>Let's Connect!</h2>
+<p>I'm always open to tech discussions, collaboration, or mentorship opportunities. If you share my passion for technology or have a project in mind, feel free to connect with me. I'd love to hear from you!</p>
 
 <div align="center">
   <a href="www.linkedin.com/in/apoorva-vasishtha-3000241b1">LinkedIn</a> | 
@@ -62,6 +75,9 @@ I'm always open to tech discussions, collaboration, or mentorship opportunities.
 </div>
 
 <div align="center">
-  <!-- Replace 'image-url.jpg' with the actual URL or file path of your image -->
-  <img src="image-url.jpg" alt="Your Image" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s;">
+  <!-- Replace 'https://example.com/your-image.jpg' with the actual URL of your image -->
+  <img src="https://example.com/your-image.jpg" alt="Your Image" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s;">
 </div>
+
+</body>
+</html>
