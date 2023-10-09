@@ -28,7 +28,7 @@ My primary goal is to leverage technology to make the world a better place. I be
 
 I'm always up for tech chats, collaboration, or mentorship opportunities. If you share my enthusiasm for technology or have an exciting project in mind, let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-blue)](www.linkedin.com/in/apoorva-vasishtha-3000241b1)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-blue)](https://www.linkedin.com/in/apoorva-vasishtha-3000241b1/)
 [![Email](https://img.shields.io/badge/Email%20Me-orange)](mailto:apoorvavasishtha@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Check%20Out%20My%20Work-green)](https://kaleidoscopic-quokka-d10008.netlify.app/)
 [![Holopin Profile](https://img.shields.io/badge/Holopin-Discover%20My%20Profile-red)](https://holopin.io/@apoorva240)
